@@ -3,7 +3,6 @@
 Program to implement K-Nearest Neighbor to a classification problem
 """
 import pandas as pd
-import os
 from sklearn import model_selection,preprocessing
 from sklearn.neighbors import KNeighborsClassifier
 import numpy as np
